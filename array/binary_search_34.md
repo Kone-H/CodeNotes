@@ -49,5 +49,5 @@ class Solution:
 
 
 ## Summary
-1. 看到有序数组，（logn）复杂度，想binary search
-2. 思考我要找的东西本质是什么
+1. 看到有序数组，（logn）复杂度，想binary search --> 马上先套公式
+2. 思考我要找的东西本质是什么(同元素里的最左 --> 再往左就不是这个元素了)
