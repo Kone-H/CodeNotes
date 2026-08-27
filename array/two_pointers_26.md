@@ -16,6 +16,7 @@ The first k elements of nums should contain the unique numbers in sorted order. 
 ## Key Points:
 1. modify the num list in place 
 2. do not care about the rest of elements after your modification
+3. 
 
 
 ## Code:
